@@ -19,7 +19,7 @@ function App() {
        <Nav />
 
        <Routes>
-           <Route path="/boost_react" element={<Home />} />
+           <Route path="/boost3.0" element={<Home />} />
            <Route path="/about_us" element={<About />} />
            <Route path="/careers" element={<Career />} />
            <Route path="/features" element={<Feature />} />
