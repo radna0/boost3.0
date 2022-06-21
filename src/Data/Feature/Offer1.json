@@ -1,0 +1,23 @@
+
+[
+    {
+    "id": 1,
+    "page":"feature",
+    "section": "offer",
+    "icon": "fa-regular fa-comment",
+    "H1Size": "small",
+    "H1ID":  1,
+    "pSize": "small"
+    
+    },
+    {
+    "id": 2,
+    "page":"feature",
+    "section": "offer",
+    "icon": "fa-solid fa-coins",
+    "H1Size": "small",
+    "H1ID":  2,
+    "pSize": "small"
+        
+    }
+]

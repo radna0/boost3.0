@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "page": "home",
+        "pathname": "/boost_react"
+    },
+    {
+        "id": 2,
+        "page": "about",
+        "pathname": "/about_us"
+    },
+    {
+        "id": 3,
+        "page": "career",
+        "pathname": "/careers"
+    },
+    {
+        "id": 4,
+        "page": "feature",
+        "pathname": "/features"
+    },
+    {
+        "id": 5,
+        "page": "faq",
+        "pathname": "/faq"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+       "id": 1,
+       "page": "career",
+       "section": "comment",
+   
+       "pSize": "medium",
+   
+       "H1Size": "small",
+       "H1Child": "Trung Hieu",
+   
+       "posSize":"medium",
+       "pos": "Backend Developer",
+   
+       "image": "/Assets/images/Comments/ava_Hieu.jpg"
+    },
+    {
+        "id": 2,
+        "page": "career",
+        "section": "comment",
+    
+        "pSize": "medium",
+    
+        "H1Size": "small",
+        "H1Child": "Xuan Thanh",
+    
+        "posSize":"medium",
+        "pos": "Frontend Developer",
+    
+        "image": "/Assets/images/Comments/ava_Thanh.jpg"
+     },
+     {
+        "id": 3,
+        "page": "career",
+        "section": "comment",
+    
+        "pSize": "medium",
+    
+        "H1Size": "small",
+        "H1Child": "Nhat Hoang",
+    
+        "posSize":"medium",
+        "pos": "Blockchain Developer",
+    
+        "image": "/Assets/images/Comments/ava_Hoang.jpg"
+     }
+]

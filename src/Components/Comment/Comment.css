@@ -1,0 +1,40 @@
+.comment_section{
+    width: 400px;
+}
+.comment_section p{
+    color: #7e868c;
+    font-style: italic;
+
+}
+.comment_info {
+    display: flex;
+}
+.comment_info img{
+    
+    align-self: center;
+    border-radius: 50%;
+    height: 50px;
+    object-fit: cover;
+    width: 50px;
+}
+.comment_info_title{
+ margin-left: 1rem;
+}
+.comment_info_title h1{
+    color: #c16d0b;
+}
+.comment_info_title p{
+    margin: 0;
+    color: black;
+    font-style: normal;
+}
+
+
+@media (max-width: 1264px){
+    .comment_section{
+        width: 80%;
+        margin-left: 2rem;
+        margin-bottom: 2rem;
+    }
+
+}

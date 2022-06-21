@@ -1,0 +1,24 @@
+button{
+    background-color: #f1880d;
+    border: 1px solid #f1880d;
+    border-radius: 11px;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0;
+    padding: 0.9rem 1.5rem;
+    margin-bottom:3rem;
+    transition: all .35s;
+
+}
+button:hover{
+    background-color: #2f373d;
+    border: 1px solid #2f373d;
+}
+
+button link{
+    color: #fff;
+}
+button i{
+    color: #fff;
+}

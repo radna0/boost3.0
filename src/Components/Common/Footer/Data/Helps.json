@@ -1,0 +1,62 @@
+
+[
+    {
+    "id": 1,
+    "page":"footer",
+    "section": "help",
+    "direct": "collum",
+    "H1Size": "small",
+    "H1ID":  1,
+    
+
+    "pChilds": [
+        {
+            "id": "A1"
+        },
+        {
+            "id": "A2"
+        },
+        {
+            "id": "A3"
+        },
+        {
+            "id": "A4"
+        }
+    ],
+
+    "pSize": "small",
+    "listId": "none",
+    "listChild":"none",
+    "image": "none"
+
+    },
+    {
+        "id": 2,
+        "page":"footer",
+        "section": "help",
+        "direct": "collum",
+        "H1Size": "small",
+        "H1ID":  2,
+    
+
+    "pChilds": [
+        {
+            "id": "B1"
+        },
+        {
+            "id": "B2"
+        },
+        {
+            "id": "B3"
+        },
+        {
+            "id": "B4"
+        }
+    ],
+
+    "pSize": "small",
+    "listId": "none",
+    "listChild":"none",
+    "image": "none"
+}
+]

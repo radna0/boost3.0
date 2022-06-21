@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+    "page":"footer",
+    "section": "contact",
+    "listId": 1,
+    "listChild":[
+        {
+            "id": "A1"
+        },
+        {
+            "id": "A2"
+        },
+        {
+            "id": "A3"
+        }
+    ],
+    "listSize": "small"
+
+    },
+    {
+        "id": 2,
+    "page":"footer",
+    "section": "contact",
+    "listId": 2,
+    "listChild":[
+        {
+            "id": "B1"
+        },
+        {
+            "id": "B2"
+        }
+    ],
+    "listSize": "small"
+    
+
+     }
+]

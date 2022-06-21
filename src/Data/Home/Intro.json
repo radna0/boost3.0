@@ -1,0 +1,11 @@
+{
+    "id": "1",
+    "page":"home",
+    "section":"intro",
+    "direct":"row",
+    "svgDirect":"left",
+    "H1Size": "large",
+    "pSize":"medium",
+    "image":"/Assets/Images/demo_phone.png"
+    
+}

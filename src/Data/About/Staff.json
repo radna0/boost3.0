@@ -1,0 +1,84 @@
+
+
+
+   
+[
+    {
+     "id": 1,
+     "page": "about",
+     "section":"member",
+     "role": "staff",
+   
+     "H1Size":"small",
+     "H1Child": "Xuan Thanh",
+     
+   
+     "pSize": "small",
+     "pChild": "Front-end Developer",
+     
+     
+     "image": "/Assets/Images/Members/ava_Thanh.jpg"
+    },
+    {
+       "id": 2,
+       "page": "about",
+       "section":"member",
+       "role": "staff",
+     
+       "H1Size":"small",
+       "H1Child": "Trung Hieu",
+       
+     
+       "pSize": "small",
+       "pChild": "Back-end Developer",
+       
+       
+       "image": "/Assets/Images/Members/ava_Hieu.jpg"
+      },{
+       "id": 3,
+       "page": "about",
+       "section":"member",
+       "role": "staff",
+     
+       "H1Size":"small",
+       "H1Child": "Nhat Hoang",
+       
+     
+       "pSize": "small",
+       "pChild": "Blockchain Developer",
+       
+       
+       "image": "/Assets/Images/Members/ava_Hoang.jpg"
+      },{
+       "id": 4,
+       "page": "about",
+       "section":"member",
+       "role": "staff",
+     
+       "H1Size":"small",
+       "H1Child": "Lam Nguyen",
+       
+     
+       "pSize": "small",
+       "pChild": "Product Manager",
+       
+       
+       "image": "/Assets/Images/Members/ava_Lam.jpg"
+      },{
+       "id": 5,
+       "page": "about",
+       "section":"member",
+       "role": "staff",
+     
+       "H1Size":"small",
+       "H1Child": "Vuong Nguyen",
+       
+     
+       "pSize": "small",
+       "pChild": "UI/UX Designer",
+       
+       
+       "image": "/Assets/Images/Members/ava_Vuong.jpg"
+      }
+   ]
+   

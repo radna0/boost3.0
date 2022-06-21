@@ -1,0 +1,107 @@
+
+[
+    {
+    "id": 1,
+    "page":"feature",
+    "section": "preview",
+    "direct": "row_R",
+    "H3Size": "small",
+    "H3ID": 1,
+    "H1Size": "medium",
+    "H1ID":  1,
+    
+
+    "pChilds": [
+        {
+            "id": 1
+        }
+        
+    ],
+
+    "pSize": "small",
+    "listId": 1,
+    "listChild":[
+        {
+            "id": "A1"
+        },
+        {
+            "id": "A2"
+        },
+        {
+            "id": "A3"
+        }
+    ],
+    "listSize": "medium",
+    "icon": "fa-solid fa-circle-check",
+    "image": "/Assets/Images/Preview/boost_task.png"
+
+    },
+    {
+        "id": 2,
+        "page":"feature",
+        "section": "preview",
+        "direct": "row",
+        "H3Size": "small",
+        "H3ID": 2,
+        "H1Size": "medium",
+        "H1ID":  2,
+    
+
+    "pChilds": [
+        {
+            "id": 2
+        }
+    ],
+
+    "pSize": "small",
+    "listId": 2,
+    "listChild":[
+        {
+            "id": "B1"
+        },
+        {
+            "id": "B2"
+        },
+        {
+            "id": "B3"
+        }
+    ],
+    "listSize": "medium",
+    "icon": "fa-solid fa-circle-check",
+    "image": "/Assets/Images/Preview/boost_chat.png"
+}, 
+{
+    "id": 3,
+    "page":"feature",
+    "section": "preview",
+    "direct": "row_R",
+    "H3Size": "small",
+    "H3ID": 3,
+    "H1Size": "medium",
+    "H1ID":  3,
+
+
+"pChilds": [
+    {
+        "id": 3
+    }
+],
+
+"pSize": "small",
+"listId": 3,
+"listChild":[
+    {
+        "id": "C1"
+    },
+    {
+        "id": "C2"
+    },
+    {
+        "id": "C3"
+    }
+],
+"listSize": "medium",
+"icon": "fa-solid fa-circle-check",
+"image": "/Assets/Images/Preview/boost_profile.png"
+}
+]

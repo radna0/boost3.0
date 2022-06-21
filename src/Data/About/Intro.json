@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "page":"about",
+    "section":"intro",
+    "direct":"row",
+    "svgDirect":"top",
+    "H1Size": "large",
+    "pSize":"medium",
+    "image":"/Assets/Images/demo_full.png"
+    
+}

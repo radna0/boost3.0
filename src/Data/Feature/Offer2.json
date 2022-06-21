@@ -1,0 +1,23 @@
+[
+    {
+    "id": 3,
+    "page":"feature",
+    "section": "offer",
+    "icon": "fa-solid fa-wallet",
+    "H1Size": "small",
+    "H1ID":  3,
+    "pSize": "small"
+            
+    },
+    {
+    "id": 4,
+    "page":"feature",
+    "section": "offer",
+    "icon": "fa-solid fa-user-shield",
+    "H1Size": "small",
+    "H1ID":  4,
+    "pSize": "small"
+
+                
+     }
+]

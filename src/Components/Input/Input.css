@@ -1,0 +1,43 @@
+
+.green{
+    color: RGB(186, 232, 217);
+}
+.red{
+    color: RGB(249, 102, 94);
+}
+.yellow{
+    color: RGB(255, 240, 171);
+}
+
+
+.input_box{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0 3rem 0;
+}
+.input_box label{
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.input_box input {
+  font-family: 'Lato', sans-serif;
+  height: 2rem;
+  width: 30rem;
+  font-size: 1.25rem;
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding: 0.25rem 0.75rem;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.input_box input:focus {
+  border-color: #ff951b65;
+  outline: 0;
+  box-shadow: 0 0 0 1.5px #ff941b;
+}
+.input_box p{
+    margin:0;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+}

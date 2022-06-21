@@ -1,0 +1,66 @@
+.footer_section{
+    padding-top:5rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer_contact_title_list{
+    margin: 0;
+    margin-top:2rem;
+    margin-bottom: 5rem;
+}
+
+.footer_contact_title_lists p{
+    margin: 0;
+    line-height: 1.5;
+}
+
+.footer_helps{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.footer_help_title{
+    margin-bottom:1rem;
+    width: 300px;
+}
+.footer_help_title h1{
+    margin-bottom:1rem;
+}
+.footer_help_title p{
+    margin: 0;
+    line-height: 1.5;
+}
+
+@media (max-width: 1264px){
+  
+    .footer_contact_title_list{
+        margin-left: 2rem;
+    }
+    .footer_helps{
+        margin-right: 5rem;
+    }
+    .footer_help_title{
+        width: 200px;
+    }
+    
+}
+
+@media (max-width: 960px){
+    .footer_section{
+        padding-top:2.5rem;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .footer_contact_title_list{
+        margin: 0rem;
+        margin-bottom: 1rem;
+    }
+    .footer_helps{
+        margin: 0rem;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+}

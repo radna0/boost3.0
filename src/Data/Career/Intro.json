@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "page":"career",
+    "section":"intro",
+    "direct":"row_R",
+    "svgDirect":"top",
+    "H1Size": "large",
+    "pSize":"medium",
+    "image":"/Assets/Images/demo_full.png"
+    
+}

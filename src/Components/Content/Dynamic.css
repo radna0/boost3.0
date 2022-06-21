@@ -1,0 +1,14 @@
+
+
+  .top{
+    background-image: radial-gradient(at top , #ffffff 73%, #f1880e 73%);
+  }
+  .right{
+    background-image: radial-gradient(at top right , #ffffff 73%, #f1880e 73%);
+  }
+  .bottom{
+    background-image: radial-gradient(at bottom , #ffffff 73%, #f1880e 73%);
+  }
+  .left{
+    background-image: radial-gradient(at top left , #ffffff 73%, #f1880e 73%);
+  }

@@ -1,0 +1,19 @@
+
+
+
+
+p{
+    font-weight: 500;
+    line-height: 1.75;
+    word-spacing: 1px;
+}
+
+.small_para{
+    font-size:0.95rem;
+}
+.medium_para{
+    font-size:1.05rem;
+}
+.large_para{
+    font-size:1.5rem;
+}

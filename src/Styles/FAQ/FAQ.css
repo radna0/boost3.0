@@ -1,0 +1,80 @@
+
+.FAQ_form_section{
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    height: 800px;
+    border-radius: 20px;
+    background-color: #2f373d ;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.FAQ_form_display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    border-radius: 20px 0px 0px 20px;
+    background: rgb(255,255,255);
+    background: -moz-radial-gradient(circle, rgba(255,255,255,1) 50%, rgba(241,136,14,1) 50%);
+    background: -webkit-radial-gradient(circle, rgba(255,255,255,1) 50%, rgba(241,136,14,1) 50%);
+    background: radial-gradient(circle, rgba(255,255,255,1) 50%, rgba(241,136,14,1) 50%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#f1880e",GradientType=1);
+}
+.FAQ_form_display img{
+    width: 250px;
+}
+
+
+
+.FAQ_formComplete_input{
+    width: 600px;
+    display: flex;
+
+}
+.FAQ_formComplete_input_title{
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+}
+.FAQ_formComplete_input_title h1{
+    color: white;
+    text-align: center;
+}
+
+
+.FAQ_form_input {
+     width: 600px;
+    display: flex;
+    justify-content: center;
+}
+
+.FAQ_form_input form{
+    display:flex;
+    flex-direction: column;
+    
+    align-self: flex-start;
+}
+.FAQ_form_input_title{
+
+    margin: 0;
+    margin-top: 1rem;
+}
+.FAQ_form_input_title h1{
+
+    color: white;
+}
+.FAQ_form_input_title p{
+
+    margin:0;
+    margin-top: 0.5rem;
+}
+.FAQ_form_input form button:hover{
+    background-color: aliceblue;
+    color: #2f373d ;
+  
+}

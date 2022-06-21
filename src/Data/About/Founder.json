@@ -1,0 +1,36 @@
+
+[
+    {
+     "id": 1,
+     "page": "about",
+     "section":"member",
+     "role": "founder",
+   
+     "H1Size":"small",
+     "H1Child": "Mikah Dang",
+     
+   
+     "pSize": "small",
+     "pChild": "Chief Vision Officer",
+     
+     
+     "image": "/Assets/Images/Members/ava_Minh.jpg"
+    },
+    {
+     "id": 2,
+     "page": "about",
+     "section":"member",
+     "role": "founder",
+   
+     "H1Size":"small",
+     "H1Child": "Hoan Vu",
+     
+   
+     "pSize": "small",
+     "pChild": "Chief Technology Officer",
+     
+     
+     "image": "/Assets/Images/Members/ava_Hoan.jpg"
+    }
+   ]
+   

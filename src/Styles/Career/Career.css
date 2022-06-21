@@ -1,0 +1,13 @@
+.career_comment_section{
+    padding-top: 3rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+@media (max-width: 1264px){
+    .career_comment_section{
+
+        flex-direction: column;
+        
+    }
+}
