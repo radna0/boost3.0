@@ -1,3 +1,4 @@
+
 {
     "id": "1",
     "page":"home",
@@ -5,7 +6,6 @@
     "direct":"row",
     "svgDirect":"left",
     "H1Size": "large",
-    "pSize":"medium",
-    "image":"/Assets/Images/demo_phone.png"
+    "pSize":"medium"
     
 }

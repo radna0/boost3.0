@@ -8,6 +8,8 @@ import Contents from '../../Data/Home/Content.json';
 
 import Btn from '../../Components/Button/Btn'
 
+import intro_IMG from '../../Assets/Images/demo_phone.png'
+
 
 
 
@@ -22,7 +24,7 @@ function Home() {
     return (
         <>
        
-        <Content  {...Intros} >
+        <Content  {...Intros} image={intro_IMG} >
            <Btn 
              Text={t(`home_intro_learnMore`)}
              Children={<i className="fa-solid fa-arrow-right home_intro_learnMore_icon"></i>} 

@@ -6,14 +6,14 @@ import Comment from '../../Components/Comment/Comment'
 import Intros from '../../Data/Career/Intro.json';
 import Comments from '../../Data/Career/Comment.json'
 
-
+import IMG from '../../Assets/Images/demo_full.png'
 
 function Career() {
 
     return (
         <>
 
-        <Content {...Intros} />
+        <Content {...Intros} image={IMG} />
 
         <div className="career_comment_section">
            {Comments.map(comment => {

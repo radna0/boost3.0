@@ -9,13 +9,13 @@ import Goals from '../../Data/About/Goal.json';
 import Founders from '../../Data/About/Founder.json';
 import Staffs from '../../Data/About/Staff.json';
 
-
+import IMG from '../../Assets/Images/demo_full.png'
 
 function About() {
 
     return (
      <>
-        <Content  {...Intros} />
+        <Content  {...Intros} image={IMG} />
 
         {Goals.map(goal =>{
 

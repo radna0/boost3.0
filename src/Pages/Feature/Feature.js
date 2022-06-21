@@ -8,6 +8,8 @@ import Previews from '../../Data/Feature/preview.json';
 import Offers1 from '../../Data/Feature/Offer1.json'
 import Offers2 from '../../Data/Feature/Offer2.json'
 
+import IMG from '../../Assets/Images/demo_phone.png'
+
 
 
 
@@ -16,7 +18,7 @@ function Feature() {
     return (
         <>
 
-        <Content   {...Intros} />
+        <Content   {...Intros}  image={IMG} />
 
     <div className="feature_offer_section">
          <H1  H1Size={"medium"} page={"feature"} section={"offer"} />

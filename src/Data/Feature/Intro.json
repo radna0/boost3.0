@@ -5,7 +5,6 @@
     "direct":"row_R",
     "svgDirect":"right",
     "H1Size": "large",
-    "pSize":"medium",
-    "image":"/Assets/Images/demo_phone.png"
+    "pSize":"medium"
     
 }
