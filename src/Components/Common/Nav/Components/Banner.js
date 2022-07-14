@@ -17,7 +17,7 @@ function Banner() {
     return (
  
         <div className="nav_logo">
-            <Link to="/boost_react" >
+            <Link to="/boost3.0" >
                 <img src="Assets/Icons/Logo/logo.png" alt="" />
             </Link>
         </div>
